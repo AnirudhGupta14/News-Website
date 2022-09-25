@@ -1,0 +1,51 @@
+.newsbox
+{
+    /* border: 2px solid black; */
+    display: flex;
+    width: 80vw;
+    margin-left: -10px;
+}
+
+.newsbar
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.news-article
+{
+    width: 20%;
+    height: 1000px;
+    position: fixed;
+    padding-top: 10px;
+}
+
+.extra-details
+{
+    width: 18%;
+    height: 1000px;
+    position: fixed;
+    top: 3rem;
+    margin-left: 82%;
+    margin-top: 4%;
+    
+}
+
+.news-heading
+{
+    font-family: cursive;
+    font-weight: 700;
+    font-size: 2rem;
+    padding-left: 1rem;
+    margin-top: 0.5rem;
+    color: greenyellow;
+    margin-bottom: 1rem;
+}
+
+.news-bar
+{
+    margin-bottom: 30px;
+}
+
+
